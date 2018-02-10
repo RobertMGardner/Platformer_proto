@@ -1,0 +1,41 @@
+Player character
+	-Basic Controls
+		-Movement
+			-variable movement speed
+		-Jump
+			-variable height
+	-Intermediate Controls
+		-Wall slide
+			-When in the air against a wall, slide down slowly
+		-Wall jump
+			-when against a wall ability to jump again
+		...
+	-Advanced Controls
+		...
+
+Gameplay Objects
+	-Basic objects (Non-physics)
+		-Stone Wall / floor
+		-Stone Column
+		...
+	-Intermediate (Mixed)
+		-Ball (phys_enabled)
+		-Box/Crate (phys_enabled)
+		-Fan (phys_disabled)
+			Rotating fan blades that can be an obstacle
+		-Spring board (phys_disabled)
+			increases jump height / bounce
+		...
+	-Advanced Objects (Mixed)
+		-Piston (phys_disabled)
+			-pushes player and physics objects
+		-Fan (phys_disabled)
+			-pushes player and physics objects
+		...
+
+Event objects
+	-Start Checkpoint
+	-Ordinal Checkpoints
+	-End Checkpoint / Finish Line
+
+
