@@ -1,0 +1,49 @@
+Theme / Setting / Genre
+	- 3D creative, cooperative platformer
+Core Gameplay Mechanics Brief
+	- 3D platformer controls
+	- Live level editing
+	- Switching between the two freely
+	- Multiplayer
+Targeted platforms
+	- Windows
+	- Potentially XB1
+	- Potentially PS4
+
+Monetization model (Brief/Document) 
+- Single time purchase with optional cosmetic DLC. NO LOOTBOXES.
+
+
+Project Scope 
+	- <Game Time Scale>
+		- Cost is time.
+		- Time for Minimum viable product: ~6 Months
+	- <Team Size>
+		- <Core Team>
+			-Eric Morris
+				- Lead Programmer
+			- Robert Gardner
+	- Lead Artist
+
+	Influences (Brief)
+		- <Super Mario 64>
+			- Controls
+	- The first and most iconic of the 3D platform genre. Though it has aged considerably, it is still well renowned for its polished and intuitive controls. It is the archetype of 3D platformers, and the game against which all newcomers must be judged.
+		- <GTAV Platformer maps>
+			- Content
+			- Although the game is ill-suited to the genre, a widespread 
+	User-base has developed for these maps. They feature somewhat nonsensical construction of platforms and other elements from objects ordinarily found in the  game world, such as fuel tanks, cars, cargo containers, barricades, signs, etc.
+		- <Gang Beasts>
+			- Art style
+	- A fighting game which features stylized interpretations of humans fighting in various locations. The art style is very low-fidelity, focusing on an interesting color palette, silhouette readability, and character customization. The game features costumes which can be equipped that drastically change the appearance of the characters while maintaining instant recognizability.
+
+The elevator Pitch
+A 3d platformer that features a fun and engaging cooperative building mechanic: The power of level creation is in the players’ hands.
+
+Project Description (Brief):
+At its root, the game will be a sandbox creative platformer where the player(s) are responsible for the creation of levels. The players will be able to freely shift between platformer and construction mode.
+
+The player character will be capable of an array of platformer actions, including standard movement and jump, special jumps, and basic combat actions like punches and kicks. 
+
+
+At Full release there will be hand constructed terrain and locations as well as a selection of Official maps. 
