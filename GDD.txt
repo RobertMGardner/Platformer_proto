@@ -23,7 +23,7 @@ Project Scope
 			-Eric Morris
 				- Lead Programmer
 			- Robert Gardner
-	- Lead Artist
+				- Lead Artist
 
 	Influences (Brief)
 		- <Super Mario 64>
